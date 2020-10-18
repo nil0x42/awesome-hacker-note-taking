@@ -15,6 +15,9 @@
   <a href="https://github.com/nil0x42/awesome-hacker-note-taking">
     <img src="https://img.shields.io/github/stars/nil0x42/awesome-hacker-note-taking?style=flat-square&logo=github">
   </a>
+  <a href="https://twitter.com/intent/follow?screen_name=nil0x42" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/nil0x42.svg?style=flat-square&logo=twitter">
+  </a>
 </p>
 
 <div align="center">
