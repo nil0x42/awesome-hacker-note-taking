@@ -161,3 +161,32 @@ A cross-platform note-taking & target-tracking app for penetration testers built
 * https://github.com/ehrishirajsharma/swiftness-static/raw/master/Checklist/OWASP-Testing-Checklist.json
   - OWASP-Testing-Checklist from @Ice3man543
 </details>
+
+<!-- ------------------------------------------------------------ -->
+<h2>
+<a href="https://github.com/obheda12/JupyterPen">
+obheda12/JupyterPen
+<img height=16 src="https://badgen.net/github/stars/obheda12/JupyterPen?icon=github&style=flat">
+</a>
+</h2>
+<b>
+Create modular and automated penetration testing frameworks utilizing Jupyter Notebooks.
+</b>
+<details>
+<summary><i>click for details..</i></summary>
+<img width="30%" src="https://pbs.twimg.com/media/EnW_CTrWEAI9ETm?format=jpg&name=medium">
+<img width="30%" src="https://pbs.twimg.com/media/EnW_CTkXEAgOKiy?format=jpg&name=medium">
+<img width="30%" src="https://pbs.twimg.com/media/EnW_F5vW8AcCdo1?format=jpg&name=medium">
+
+**:heavy_check_mark: Pros (for hackers)**
+* Focused on OSINT
+* in-notes executable scripts for result insertions
+* Automate / parse recon to excel
+
+**:x: Cons (for hackers)**
+* Recent (small community)
+
+**:electric_plug: Resources**
+* https://youtu.be/LTNKMA65BtI?t=653
+  - BSIDES presentation by @obheda12
+</details>
